@@ -2,19 +2,16 @@
 
 ### Description
 
+The CharityTicket app is your gateway to supporting a noble cause while having the chance to win exciting prizes! Our mission is to make charitable giving both accessible and rewarding. With CharityTicket, you can purchase tickets for charity raffles and instantly see your ticket purchase, all from the convenience of your mobile device.
+
 ### Table of content
 
 1. Prerequisites
 2. Getting Started
 3. Figma Design
 4. Project Structure
-5. Running the App
-6. Testing
-7. Deployment
-8. Technology Used
-9. Architecture Used
-10. Contributing
-11. License
+5. Technology Used
+6. Architecture Used
 
 ## Prerequisites
 
@@ -35,7 +32,21 @@ Explain how to set up the development environment, install dependencies, and get
 git clone git@github.com:OtchereDev/Friend-of-bulgaria.git
 cd mobile
 `
-2.
+2. Install dependencies:
+   `ssh 
+flutter pub get
+`
+
+3. Run the app:
+   `ssh
+flutter run
+`
+
+### Project Structure
+
+/ # Contains all source code
+├── mobile # Contains mobile code
+├── serverless/ # Contains serverless functions
 
 ### Technology Used
 
