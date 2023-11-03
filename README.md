@@ -1,16 +1,20 @@
-# hackaton
+# Friends Of Bulgaria Mobile App
 
-A new Flutter project.
+### Technology Used
 
-## Getting Started
+1. Flutter (Dart)
+2. Wordpress custom post type
+3. AWS (API Gateway, Lightsail, Lambda Function)
 
-This project is a starting point for a Flutter application.
+### Architecture Used
 
-A few resources to get you started if this is your first Flutter project:
+![Alt text](image.png)
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+### Figma Design
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+[Friend Of Bulgaria Mobile Design](<https://www.figma.com/file/LeewO8I5HW3KGc4lC3KrD3/Oliver's-Portfolio-(Copy)?type=design&node-id=349-536&mode=design&t=gYHjzMVNU6ctpUX9-4>)
+
+### Result
+
+1. An iOS Mobile App
+2. An Android Mobile App
